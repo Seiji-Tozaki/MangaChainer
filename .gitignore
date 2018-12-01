@@ -1,0 +1,5 @@
+use_input/*.jpg
+use_output/*.jpg
+images/color/*.jpg
+images/line/*.jpg
+dat/*.dat
